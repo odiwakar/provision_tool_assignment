@@ -17,3 +17,7 @@ entries:
     env: dev
     username: testuser2
     access: RO
+  - project: manhattan
+    env: dev
+    username: testuser1
+    access: RW
