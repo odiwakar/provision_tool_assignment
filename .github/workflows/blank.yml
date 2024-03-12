@@ -44,5 +44,5 @@ jobs:
                     
           pwd
           ls
-
+          toolkit provision init --metadata
           toolkit provision apply
