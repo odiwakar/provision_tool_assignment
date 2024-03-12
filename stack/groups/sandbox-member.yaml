@@ -6,3 +6,5 @@ entries:
       username: testuser2
     - sandbox: poc2
       username: testuser1
+    - sandbox: poc2
+      username: testuser2
