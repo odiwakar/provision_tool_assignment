@@ -22,3 +22,7 @@ entries:
     email: omkarinqa@phdata.io
     password: "<REPLACE WITH PASSWORD>"
     must_change_password: true
+  - username: omkarinqa2
+    email: omkarinqa@phdata.io
+    password: "<REPLACE WITH PASSWORD>"
+    must_change_password: true
